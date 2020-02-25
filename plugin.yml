@@ -1,0 +1,17 @@
+name: LobbyEssentials
+main: com.gmail.filoghost.lobbyessentials.LobbyEssentials
+version: 1.0
+softdepend: [WildAuth, ChestCommands]
+
+commands:
+   lobbyessentials:
+      usage: /<command>
+      aliases: [le]
+   spawn:
+      usage: /<command>
+   vanish:
+      usage: /<command>
+      aliases: [v]
+   nointeract:
+      usage: /<command>
+      aliases: [ni]
